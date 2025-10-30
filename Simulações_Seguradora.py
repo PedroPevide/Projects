@@ -1,3 +1,5 @@
+#Simula o patrimônio de uma seguradora com parâmetros variáveis descritos abaixo.
+
 import numpy as np
 import random
 import plotly.graph_objects as go
@@ -108,4 +110,5 @@ print(f"Patrimônio Médio da Seguradora no Final do Período: {patrimonio/iters
 # acionamento = testa_valores_acionamento(3500, 4000, 10, prob, 5000)
 #
 # print(f"Valor de acionamento para probabilidade menor ou igual a {prob}: {acionamento}")
+
 
