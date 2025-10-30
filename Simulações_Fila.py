@@ -1,3 +1,5 @@
+#Simula um sistema com duas filas em paralelo.
+
 import numpy as np
 import plotly.graph_objects as go
 from itertools import islice
@@ -289,6 +291,7 @@ fig1.show()
 # fig2.update_layout(title="Número Total de Clientes Atendidos por cada Servidor", yaxis_title="Clientes", yaxis = dict(range=[0, n_s1 + n_s2]))
 # fig2.show()
 #------------------------------------------------------------------------------------------------------------#
+
 
 
 
